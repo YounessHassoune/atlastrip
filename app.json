@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "atlastrip",
+    "slug": "atlastrip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
